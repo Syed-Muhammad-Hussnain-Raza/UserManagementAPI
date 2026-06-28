@@ -1,0 +1,59 @@
+# Build directories
+bin/
+obj/
+
+# User-specific files
+*.user
+*.rsuser
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Visual Studio
+.vs/
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.ncb
+*.swp
+*.dbmdl
+
+# Test results
+TestResults/
+
+# Package management
+*.nupkg
+*.snupkg
+packages/
+*.lock.json
+
+# Publish output
+publish/
+wwwroot/
+
+# Configuration secrets (keep appsettings.json, ignore overrides)
+appsettings.Development.json
+appsettings.Local.json
+appsettings.*.json
+
+# OS files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+.DS_Store
+
+# Rider / JetBrains
+.idea/
+
+# Resharper
+_ReSharper*/
+*.[Rr]e[Ss]harper
+
+# Backup files
+*.bak
+*.old
